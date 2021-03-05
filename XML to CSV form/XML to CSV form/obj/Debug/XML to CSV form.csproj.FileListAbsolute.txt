@@ -1,0 +1,10 @@
+C:\Users\Gebruiker\source\repos\XML to CSV form\XML to CSV form\bin\Debug\XML to CSV form.exe.config
+C:\Users\Gebruiker\source\repos\XML to CSV form\XML to CSV form\bin\Debug\XML to CSV form.exe
+C:\Users\Gebruiker\source\repos\XML to CSV form\XML to CSV form\bin\Debug\XML to CSV form.pdb
+C:\Users\Gebruiker\source\repos\XML to CSV form\XML to CSV form\obj\Debug\XML to CSV form.csprojAssemblyReference.cache
+C:\Users\Gebruiker\source\repos\XML to CSV form\XML to CSV form\obj\Debug\XML_to_CSV_form.Properties.Resources.resources
+C:\Users\Gebruiker\source\repos\XML to CSV form\XML to CSV form\obj\Debug\XML to CSV form.csproj.GenerateResource.cache
+C:\Users\Gebruiker\source\repos\XML to CSV form\XML to CSV form\obj\Debug\XML to CSV form.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\XML to CSV form\XML to CSV form\obj\Debug\XML to CSV form.exe
+C:\Users\Gebruiker\source\repos\XML to CSV form\XML to CSV form\obj\Debug\XML to CSV form.pdb
+C:\Users\Gebruiker\source\repos\XML to CSV form\XML to CSV form\obj\Debug\XML_to_CSV_form.XMLtoCSVParser.resources
